@@ -3,7 +3,7 @@ export function taskFirst() {
   return task;
 }
 export function getLast() {
-  return "return is okay";
+  return " is okay";
 }
 export function taskNext() {
   let combination = "But sometimes let";
